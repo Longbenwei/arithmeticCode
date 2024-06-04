@@ -10,3 +10,9 @@ C:\Users\ASUS\Desktop\文档\wbl.arithmeticCode\wbl.algorithmImplementation\obj\
 C:\Users\ASUS\Desktop\文档\wbl.arithmeticCode\wbl.algorithmImplementation\obj\Debug\wbl.algorithmImplementation.csproj.CoreCompileInputs.cache
 C:\Users\ASUS\Desktop\文档\wbl.arithmeticCode\wbl.algorithmImplementation\obj\Debug\wbl.algorithmImplementation.dll
 C:\Users\ASUS\Desktop\文档\wbl.arithmeticCode\wbl.algorithmImplementation\obj\Debug\wbl.algorithmImplementation.pdb
+D:\githubCode\arithmeticCode\wbl.arithmeticCode\wbl.algorithmImplementation\bin\Debug\wbl.algorithmImplementation.dll
+D:\githubCode\arithmeticCode\wbl.arithmeticCode\wbl.algorithmImplementation\bin\Debug\wbl.algorithmImplementation.pdb
+D:\githubCode\arithmeticCode\wbl.arithmeticCode\wbl.algorithmImplementation\obj\Debug\wbl.algorithmImplementation.csproj.AssemblyReference.cache
+D:\githubCode\arithmeticCode\wbl.arithmeticCode\wbl.algorithmImplementation\obj\Debug\wbl.algorithmImplementation.csproj.CoreCompileInputs.cache
+D:\githubCode\arithmeticCode\wbl.arithmeticCode\wbl.algorithmImplementation\obj\Debug\wbl.algorithmImplementation.dll
+D:\githubCode\arithmeticCode\wbl.arithmeticCode\wbl.algorithmImplementation\obj\Debug\wbl.algorithmImplementation.pdb
